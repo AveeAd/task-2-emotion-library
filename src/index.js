@@ -6,7 +6,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router basename="/home">
+    <Router>
       <App />
     </Router>
   </React.StrictMode>,
