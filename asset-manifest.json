@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/task-2-emotion-library/static/css/main.c8280ada.chunk.css",
-    "main.js": "/task-2-emotion-library/static/js/main.0859bbb3.chunk.js",
-    "main.js.map": "/task-2-emotion-library/static/js/main.0859bbb3.chunk.js.map",
+    "main.js": "/task-2-emotion-library/static/js/main.6ff73a0b.chunk.js",
+    "main.js.map": "/task-2-emotion-library/static/js/main.6ff73a0b.chunk.js.map",
     "runtime-main.js": "/task-2-emotion-library/static/js/runtime-main.b66c33dc.js",
     "runtime-main.js.map": "/task-2-emotion-library/static/js/runtime-main.b66c33dc.js.map",
     "static/js/2.063fa42d.chunk.js": "/task-2-emotion-library/static/js/2.063fa42d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b66c33dc.js",
     "static/js/2.063fa42d.chunk.js",
     "static/css/main.c8280ada.chunk.css",
-    "static/js/main.0859bbb3.chunk.js"
+    "static/js/main.6ff73a0b.chunk.js"
   ]
 }
