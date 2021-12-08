@@ -47,8 +47,8 @@ export const P = styled.p`
   text-align: justify;
   padding: 0.5rem;
   border-radius: 8px;
-  ${({ bg, color, align }) =>
-    `background-color: ${bg};color: ${color};text-align: ${align}`};
+  ${({ bg, color, align, padding }) =>
+    `background-color: ${bg};color: ${color};text-align: ${align}; padding: ${padding}`};
 `;
 
 export const Form = styled.form`
