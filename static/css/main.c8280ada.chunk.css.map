@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SAAU,CACV,eAAgB,CAChB,qBACF","file":"main.c8280ada.chunk.css","sourcesContent":["* {\r\n  margin: 0;\r\n  padding: 0;\r\n  line-height: 1.5;\r\n  box-sizing: border-box;\r\n}\r\n"]}

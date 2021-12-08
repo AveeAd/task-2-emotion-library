@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/task-2-emotion-library/static/css/main.c8280ada.chunk.css",
+    "main.js": "/task-2-emotion-library/static/js/main.e33d8a94.chunk.js",
+    "main.js.map": "/task-2-emotion-library/static/js/main.e33d8a94.chunk.js.map",
+    "runtime-main.js": "/task-2-emotion-library/static/js/runtime-main.62beeaa8.js",
+    "runtime-main.js.map": "/task-2-emotion-library/static/js/runtime-main.62beeaa8.js.map",
+    "static/js/2.160a73b3.chunk.js": "/task-2-emotion-library/static/js/2.160a73b3.chunk.js",
+    "static/js/2.160a73b3.chunk.js.map": "/task-2-emotion-library/static/js/2.160a73b3.chunk.js.map",
+    "index.html": "/task-2-emotion-library/index.html",
+    "static/css/main.c8280ada.chunk.css.map": "/task-2-emotion-library/static/css/main.c8280ada.chunk.css.map",
+    "static/js/2.160a73b3.chunk.js.LICENSE.txt": "/task-2-emotion-library/static/js/2.160a73b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62beeaa8.js",
+    "static/js/2.160a73b3.chunk.js",
+    "static/css/main.c8280ada.chunk.css",
+    "static/js/main.e33d8a94.chunk.js"
+  ]
+}
